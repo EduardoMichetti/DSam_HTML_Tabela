@@ -2,3 +2,6 @@
 
 /* Importe das fontes */
 @import "./fontes.css";
+
+/* Importe CSS Filtro */
+@import "./filtro.css";
