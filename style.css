@@ -8,3 +8,13 @@ html, body {
     height: 100%;
 } /*usar todo espaco disponivel*/
 
+
+.Regular{
+    font-family: "Roboto-Regular";
+}
+.Medium{
+    font-family: "Roboto-Medium";
+}
+.Bold{
+    font-family: "Roboto-Bold";
+}
